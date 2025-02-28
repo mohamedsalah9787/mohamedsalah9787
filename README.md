@@ -19,7 +19,7 @@
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ1ajJrNjFsY2YwcGFpanBmc245ZTh3bml0aDN5Z3RrNG5nd2xtOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0lGd2OXXHe4tFhb7Wh/giphy.webp"  />
-
+<img align="right" height="150" src="https://media3.giphy.com/media/iPj5oRtJzQGxwzuCKV/200.webp?cid=ecf05e47kv1pvxv2jl3mb58bsw9kamccyiaaq7mef8acbt38&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 ###
 
 <h3 align="left">Connect with me:</h3>
